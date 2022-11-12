@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Red Social Firebase</string>
+
+    <string name="LoginBTN">LOGIN</string>
+    <string name="RegistrarBTN">Registrarme</string>
+
+    <string name="RegistroTXT">REGISTRO</string>
+    <string name="Correo">Escriba correo</string>
+    <string name="Password">Escriba contraseña</string>
+    <string name="Nombres">Nombres Completos</string>
+    <string name="Apellidos">Apellidos Completos</string>
+    <string name="Edad">Edad</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Direccion">Direccion</string>
+    <string name="REGISTRARUSUARIO">REGISTRARME</string>
+
+    <string name="CorreoLogin">Correo electrónico</string>
+    <string name="PasswordLogin">Contraseña</string>
+    <string name="Ingresar">LOGIN</string>
+
+</resources>
